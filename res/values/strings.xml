@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flip It</string>
+    <string name="contentDescriptionFalse">unhappy</string>
+    <string name="contentDescriptionTrue">happy</string>
+    <string name="resetButton">Reset</string>
+    <string name="action_reset">Reset</string>
+    
+</resources>
